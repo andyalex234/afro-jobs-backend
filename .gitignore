@@ -1,0 +1,35 @@
+# Node.js
+node_modules/
+
+# Environment variables
+.env
+
+# Logs
+logs
+*.log
+
+# Dependency directories
+.pnpm-store
+.pnpm-workspace
+yarn-error.log
+
+# Editor-specific files
+.vscode/
+.idea/
+
+# Mac and Linux file system files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.tmp.*
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Output directories
+dist/
+build/
